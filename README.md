@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiQuAnt
+- 👋 Hi, I’m @SiQu
 
 <!---
 SiQuAnt/SiQuAnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
